@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.navbar{
+  background-color: white !important;
+  margin-bottom: 1vh;
+  
+}
+
+.navbar-brand{
+  color: blue !important;
+  font-size: 1.9rem;
+}
+
+.navbar li{
+  font-size: 1.3rem;
+  margin-right: 1vw;
+}
+
+.navbar-nav .nav-link:focus{
+  color: rgb(55, 55, 255) !important;
+  border-bottom: 2px rgb(55, 55, 255) solid;
+}
+
+.brand-name{
+  color: #eb34ba;
+}
+
+.get-btn{
+  color: #eb346b;
+  background-color: white;
+  border: 2px #eb346b solid;
+  border-radius: 20px;
+}
+
+.get-btn:hover{
+  color: white;
+  background-color: #eb346b;
+}
+
+#header{
+  height: 70vh;
+  margin-bottom: 4vh;
+}
+
+.shadow{
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.card-img-top{
+  height: 30vh;
+}
+
+.animated {
+  animation: MoveUpDown 3s ease-in-out infinite;
+}
+
+/* Animation */
+
+@keyframes MoveUpDown {
+  0%,100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-19px);
+  }
+
+}
+
+.footer{
+  animation: colorslide 2s ease-in-out infinite;
+}
+
+@keyframes colorslide {
+  0%,100%{
+    color: black;
+  }
+  50%{
+    color: blue;
+  }
+
+}
+
+/* Media Query */
+
+@media screen and (max-width: 480px){
+   #header{
+     height: 80vh;
+     margin-bottom: 8vh;
+   }
+}
+
+
