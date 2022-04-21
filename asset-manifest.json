@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/edtech-react-website/static/css/main.2179bade.css",
-    "main.js": "/edtech-react-website/static/js/main.d88eb466.js",
+    "main.js": "/edtech-react-website/static/js/main.5864c184.js",
     "static/js/787.e5788219.chunk.js": "/edtech-react-website/static/js/787.e5788219.chunk.js",
     "static/media/web.jpg": "/edtech-react-website/static/media/web.b6c3931702238e97de51.jpg",
     "static/media/software.jpg": "/edtech-react-website/static/media/software.6cdb10857eb4d8bc2e9c.jpg",
@@ -13,11 +13,11 @@
     "static/media/about.svg": "/edtech-react-website/static/media/about.9f7e9758eed96dd9efb2de874f662677.svg",
     "index.html": "/edtech-react-website/index.html",
     "main.2179bade.css.map": "/edtech-react-website/static/css/main.2179bade.css.map",
-    "main.d88eb466.js.map": "/edtech-react-website/static/js/main.d88eb466.js.map",
+    "main.5864c184.js.map": "/edtech-react-website/static/js/main.5864c184.js.map",
     "787.e5788219.chunk.js.map": "/edtech-react-website/static/js/787.e5788219.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2179bade.css",
-    "static/js/main.d88eb466.js"
+    "static/js/main.5864c184.js"
   ]
 }
