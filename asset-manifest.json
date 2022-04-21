@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/edtech-react-website%20/static/css/main.2179bade.css",
-    "main.js": "/edtech-react-website%20/static/js/main.7aed21b0.js",
-    "static/js/787.e5788219.chunk.js": "/edtech-react-website%20/static/js/787.e5788219.chunk.js",
-    "static/media/web.jpg": "/edtech-react-website%20/static/media/web.b6c3931702238e97de51.jpg",
-    "static/media/software.jpg": "/edtech-react-website%20/static/media/software.6cdb10857eb4d8bc2e9c.jpg",
-    "static/media/marketing.jpg": "/edtech-react-website%20/static/media/marketing.76b22eb753ddc88e0626.jpg",
-    "static/media/app.jpg": "/edtech-react-website%20/static/media/app.c1d5c8e83a0891f74bcd.jpg",
-    "static/media/android.jpg": "/edtech-react-website%20/static/media/android.d62acbdf4f2eeaf72269.jpg",
-    "static/media/dmarketing.jpg": "/edtech-react-website%20/static/media/dmarketing.9e25870d2384688fa057.jpg",
-    "static/media/main.svg": "/edtech-react-website%20/static/media/main.c4d796b3967c16b138d4a844acce43f5.svg",
-    "static/media/about.svg": "/edtech-react-website%20/static/media/about.9f7e9758eed96dd9efb2de874f662677.svg",
-    "index.html": "/edtech-react-website%20/index.html",
-    "main.2179bade.css.map": "/edtech-react-website%20/static/css/main.2179bade.css.map",
-    "main.7aed21b0.js.map": "/edtech-react-website%20/static/js/main.7aed21b0.js.map",
-    "787.e5788219.chunk.js.map": "/edtech-react-website%20/static/js/787.e5788219.chunk.js.map"
+    "main.css": "/edtech-react-website/static/css/main.2179bade.css",
+    "main.js": "/edtech-react-website/static/js/main.d88eb466.js",
+    "static/js/787.e5788219.chunk.js": "/edtech-react-website/static/js/787.e5788219.chunk.js",
+    "static/media/web.jpg": "/edtech-react-website/static/media/web.b6c3931702238e97de51.jpg",
+    "static/media/software.jpg": "/edtech-react-website/static/media/software.6cdb10857eb4d8bc2e9c.jpg",
+    "static/media/marketing.jpg": "/edtech-react-website/static/media/marketing.76b22eb753ddc88e0626.jpg",
+    "static/media/app.jpg": "/edtech-react-website/static/media/app.c1d5c8e83a0891f74bcd.jpg",
+    "static/media/android.jpg": "/edtech-react-website/static/media/android.d62acbdf4f2eeaf72269.jpg",
+    "static/media/dmarketing.jpg": "/edtech-react-website/static/media/dmarketing.9e25870d2384688fa057.jpg",
+    "static/media/main.svg": "/edtech-react-website/static/media/main.c4d796b3967c16b138d4a844acce43f5.svg",
+    "static/media/about.svg": "/edtech-react-website/static/media/about.9f7e9758eed96dd9efb2de874f662677.svg",
+    "index.html": "/edtech-react-website/index.html",
+    "main.2179bade.css.map": "/edtech-react-website/static/css/main.2179bade.css.map",
+    "main.d88eb466.js.map": "/edtech-react-website/static/js/main.d88eb466.js.map",
+    "787.e5788219.chunk.js.map": "/edtech-react-website/static/js/787.e5788219.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2179bade.css",
-    "static/js/main.7aed21b0.js"
+    "static/js/main.d88eb466.js"
   ]
 }
