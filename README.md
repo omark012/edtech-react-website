@@ -1,4 +1,5 @@
 # Online courses react website
+A leading education site. Improving lives through learning.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
